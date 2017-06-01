@@ -1,16 +1,16 @@
 body{
-	background:lightblue;
-	text-align:center;
-	position:relative;
-	overflow: hidden;
+    background:lightblue;
+    text-align:center;
+    position:relative;
+    overflow: hidden;
 }
 
 .snowflake{
-	width:15px;
-	height:15px;
-	background: #fff;
-	border-radius: 100%;
-	filter:blur(3px);
-	position:absolute;
-	top:-50px;
+    width:15px;
+    height:15px;
+    background: #fff;
+    border-radius: 100%;
+    filter:blur(3px);
+    position:absolute;
+    top:-50px;
 }
